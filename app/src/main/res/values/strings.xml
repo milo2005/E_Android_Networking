@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_reload">Actualizar</string>
+    <string name="txt_pronostico">Pronostico</string>
+    <string name="txt_humedad">Humedad</string>
+    <string name="txt_presion">Presion</string>
+    <string name="txt_temp">Temperatura</string>
+    <string name="txt_title">Clima Popayan</string>
+
+</resources>
